@@ -31,25 +31,6 @@ A simple **Java console-based application** that manages patient records, displa
 
 ---
 
-## 🗃️ Project Structure
-
-JDBCDemo/
-├── src/
-│ ├── model/
-│ │ ├── Doctor.java
-│ │ └── Patient.java
-│ └── ui/
-│ └── HospitalManagementSystem.java
-├── README.md
-└── Documentation/
-└── HospitalManagementSystem_Documentation.docx
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠️ How to Run
 
 1. Install MySQL and create a database named `hospital`.
